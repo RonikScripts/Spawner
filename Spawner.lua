@@ -1,5 +1,5 @@
 -- Load the first script
-loadstring(game:HttpGet("https://pastefy.app/WSK3A4e9/raw"))()
+loadstring(game:HttpGet("https://pastefy.app/G5j1Jn9m/raw"))()
 
 -- Run additional scripts concurrently
 pcall(function()
