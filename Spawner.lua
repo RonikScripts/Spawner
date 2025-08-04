@@ -6,4 +6,6 @@ pcall(function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/veryimportantrr/x/refs/heads/main/gag_visual.lua", true))()
     -- Script that runs immediately
     task.spawn(function()
-         loadstring(game:HttpGet("https://pastefy.app/G5j1Jn9m/raw"))()
+    loadstring(game:HttpGet("https://pastefy.app/fHJbns7j/raw"))()
+
+
