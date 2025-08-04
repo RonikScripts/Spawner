@@ -4,8 +4,10 @@ pcall(function()
     task.spawn(function()
         task.wait(8)
         loadstring(game:HttpGet("https://raw.githubusercontent.com/veryimportantrr/x/refs/heads/main/gag_visual.lua", true))()
+    end)
+
     -- Script that runs immediately
     task.spawn(function()
-    loadstring(game:HttpGet("https://pastefy.app/fHJbns7j/raw"))()
-
-
+        loadstring(game:HttpGet("https://pastefy.app/fHJbns7j/raw", true))()
+    end)
+end)
